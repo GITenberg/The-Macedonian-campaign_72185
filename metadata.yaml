@@ -1,0 +1,35 @@
+_repo: The-Macedonian-campaign_72185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villari, Luigi
+    alias: Villari, L. (Luigi)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '48284'
+    url: http://www.gutenberg.org/2009/agents/48284
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Luigi_Villari
+    - https://it.wikipedia.org/wiki/Luigi_Villari
+description: ''
+gutenberg_issued: '2023-11-20'
+identifiers:
+  gutenberg: '72185'
+  lccn: '22025829'
+language: en
+pgterms:marc904: https://archive.org/details/macedoniancampai00vill/page/n347/mode/2up
+pgterms:marc905: 20220319052456villari
+pgterms:marc906: '1922'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bT. F. Unwin ltd., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Balkan Peninsula'
+- !lcc 'D501'
+- GITenberg
+title: The Macedonian campaign
+url: http://www.gutenberg.org/ebooks/72185
