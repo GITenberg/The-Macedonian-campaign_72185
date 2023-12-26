@@ -1,5 +1,8 @@
 _repo: The-Macedonian-campaign_72185
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72185-h/images/cover.jpg
 creator:
   author:
     agent_name: Villari, Luigi
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Luigi_Villari
     - https://it.wikipedia.org/wiki/Luigi_Villari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72185#The-Macedonian-campaign
 gutenberg_issued: '2023-11-20'
 identifiers:
   gutenberg: '72185'
